@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+}
+
+button{
+  margin: 1%;
+  background-color: aquamarine;
+  border: solid medium black;
+  width: 15%;
+  margin-left: 43%;
+  font-size: 15px;
+}
+
+img {
+  display: none;
+}
